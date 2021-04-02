@@ -1,0 +1,2 @@
+print(OAO)
+print(QAQ)
